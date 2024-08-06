@@ -1,15 +1,37 @@
 # jest-another-rpg
 
-### 1. Description
-This is a role-playing game (RPG) where players can create characters, battle enemies, and manage their inventory. The game logic is built in JavaScript, and Jest is used for unit testing to ensure the correctness of the code.
+A simple RPG game built with JavaScript and tested using Jest. Create and customize your own character, battle enemies, collect loot, and level up through various challenges. This game features a variety of enemies and equipment to enhance gameplay, providing an engaging and dynamic RPG experience.
 
-### 2. Features
- * Character Creation: Create a character with a name, strength, agility, and health.
- * Battles: Engage in battles with enemies, using your character's stats and inventory.
- * Inventory Management: Collect items and manage your inventory to enhance your character's abilities.
- * Turn-Based Combat: The game features a turn-based combat system where strategy and planning are key.
+### Features
+- Create a customizable RPG character.
+- Battle various enemies with unique abilities.
+- Collect loot and upgrade your character's equipment.
+- Play through different levels with increasing difficulty.
 
-### 3. Credits / Contact
-This application was created by Cameron Bushehry
+### Prerequisites
+- Node.js
+- npm
 
-email: c.bushehry@gmail.com
+### Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/jest-another-rpg.git
+    ```
+2. Navigate into the project directory:
+    ```bash
+    cd jest-another-rpg
+    ```
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
+4. Run the application:
+    ```bash
+    npm start
+    ```
+
+## Credits / Contact
+This application was made by Cameron Bushehry
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cbushehry)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.bushehry@gmail.com)
